@@ -1,7 +1,7 @@
 `playwright.config.js` contains the playwirght configurations such as timeouts and retries for failed tests
 
 while at  `//playwrightExample`
-Setup
+
  Run `npm install`
 
 To run the tests 
