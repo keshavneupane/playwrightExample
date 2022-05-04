@@ -2,7 +2,7 @@
 
 while at  `//playwrightExample`
 Setup
- Run `npm init playwright`
+ Run `npm install`
 
 To run the tests 
 `npx playwright test --headed` or   `npx playwright test` for headless mode
